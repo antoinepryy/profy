@@ -1,0 +1,13 @@
+Pour utiliser ce programme, cliquer sur index.html
+
+Pour changer les noms des élèves, il faut modifier les noms dans script.js
+
+Cette partie du code est à modifier:
+
+const eleves = [
+    "Mathéo", "Camelia", "Elliot", "LUNA", "JONATHAN",
+    "Léna", "Jade", "Rose", "Dimitry", "Lihem",
+    "JULIE", "HAYDEN", "Nathan", "AYDEN", "Ewen",
+    "Camille", "Hajar", "LEIA", "EMILE", "Sibylle",
+    "Moussa", "Eden", "SHERLEY", "Gregoire", "EMY"
+];
